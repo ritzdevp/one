@@ -3206,7 +3206,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		margin-left: 8em;
+		margin-left: 1em; /*left margin of all content*/
 	}
 
 		.wrapper > .inner {
